@@ -5,12 +5,9 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "DLSU_SCENES_UNREAL",
+			"Name": "DLSU_SCENES_FIX",
 			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
+			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
@@ -21,10 +18,5 @@
 				"Editor"
 			]
 		}
-	],
-	"TargetPlatforms": [
-		"Linux",
-		"Mac",
-		"Windows"
 	]
 }
