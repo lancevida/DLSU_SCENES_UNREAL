@@ -1,4 +1,4 @@
-# ARCHERVERSE: A COLLECTION OF 3D PBR DLSU SCENES (Capstone Project)
+# ARCHERVERSE: A COLLECTION OF 3D PBR DLSU SCENES
 
 Explore De La Salle University in full 3D with our interactive virtual tour, built using **Unreal Engine 5** as part of our capstone project.
 
@@ -8,10 +8,11 @@ This project brings DLSU’s iconic scenes to life with high-quality 3D modeling
 
 ### ✅ Quick Start
 
-1. Click the green `Code` button on this page.
-2. Select **Download ZIP**.
-3. Extract the ZIP file.
-4. Open the `Windows/` folder and run the `.exe` file to start the virtual tour!
+1. ACCESS THE UNREAL ENGINE BUILD HERE https://drive.google.com/file/d/1BIkesT-BIOPhV7zQZS0TuHJH3TadxbzK/view?usp=sharing
+2. Click the green `[LINK]` attached to this README.
+3. Press **Download ZIP** in the Drive
+4. Extract the ZIP file.
+5. Open the `Windows/` folder and run the `Application` file to start the virtual tour!
 
 > ⚠️ No need to install Unreal Engine or other tools.
 
@@ -35,8 +36,8 @@ This capstone project was developed by Komorebi Studios as part of our undergrad
 
 ## 🙌 Credits
 
-- 3D Modeling & Texturing – Lance, Mads, Jono
-- Unreal Engine Integration – Lance
+- Lance, Mads, Jono
+- and Sir Neil for his cool adviser skills and guidance 🫡
 
 Made with ❤️ by DLSU students.
 
