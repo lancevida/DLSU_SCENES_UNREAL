@@ -9,7 +9,7 @@ This project brings DLSU’s iconic scenes to life with high-quality 3D modeling
 ### ✅ Quick Start
 
 1. ACCESS THE UNREAL ENGINE BUILD HERE https://drive.google.com/file/d/1BIkesT-BIOPhV7zQZS0TuHJH3TadxbzK/view?usp=sharing
-2. Click the `LINK` attached to this README.
+2. Click the link attached to this README (Google Drive link ^^)
 3. Press **Download ZIP** in the Drive
 4. Extract the ZIP file.
 5. Open the `Windows/` folder and run the `Application` file to start the virtual tour!
